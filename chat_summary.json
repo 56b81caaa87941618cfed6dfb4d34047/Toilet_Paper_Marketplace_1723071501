@@ -6,5 +6,11 @@
         "timestamp": "1723071502",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "change the color of the background to be brown",
+        "timestamp": "07082024225840",
+        "message_id": "guest07082024225840"
     }
 ]
